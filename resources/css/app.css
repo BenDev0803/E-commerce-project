@@ -1,0 +1,10 @@
+@import'~bootstrap/dist/css/bootstrap';
+@import'./style';
+
+/* dropzone */
+@import '~dropzone/dist/basic';
+@import '~dropzone/dist/dropzone';
+
+/* flag-icons */
+
+@import'~flag-icons/css/flag-icons';
